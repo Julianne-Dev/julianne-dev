@@ -1,5 +1,3 @@
-## Hi there :open_file_folder:
-
 # Olá, eu sou a Julianne! 👋
 
 ### 👩‍💻 Desenvolvedora Front-end | Estudante de ADS (Análise e Desenvolvimento de Sistemas)
