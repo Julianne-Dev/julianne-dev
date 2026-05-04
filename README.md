@@ -46,7 +46,7 @@ Sou apaixonada por transformar lógica e dados em interfaces funcionais e atraen
 
 ### 📫 Como me encontrar
 * **LinkedIn:**(https://linkedin.com/in/julianneemydio)
-* **Portfólio Web:** [link-do-seu-site.com](https://seusite.com)
+* **Portfólio Web:** (https://julianne-dev.github.io/portfolio/)
 
 ---
 *"A constância nos estudos é a ponte entre o aprendizado e a excelência."*
