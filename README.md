@@ -7,7 +7,7 @@ Com formação em **Matemática** e atualmente cursando o **3º período de ADS 
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Tech Stack
 
 **Desenvolvimento Front-end:**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
