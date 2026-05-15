@@ -1,8 +1,9 @@
-# Olá, eu sou a Julianne! 👋
+# Olá, seja muito bem-vindo! 👋
 
 ### 👩‍💻 Desenvolvedora Front-end | Estudante de ADS (Análise e Desenvolvimento de Sistemas)
 
-Sou apaixonada por transformar lógica e dados em interfaces funcionais e atraentes. Com formação em **Matemática** e atualmente cursando o **3º período de ADS na Unifeso**, busco unir o raciocínio analítico com o desenvolvimento de software.
+Sou apaixonada por transformar lógica e dados em interfaces funcionais e atraentes.<Br> 
+Com formação em **Matemática** e atualmente cursando o **3º período de ADS na Unifeso**, busco unir o raciocínio analítico com o desenvolvimento de software.
 
 ---
 
@@ -18,7 +19,7 @@ Sou apaixonada por transformar lógica e dados em interfaces funcionais e atraen
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-**🌱 No radar de estudos:** `Node.js`, `Python` e `Bancos de Dados (SQL/NoSQL)`.
+**🌱 No radar de estudos:** `Node.js`, `Python` , `Bancos de Dados (SQL/NoSQL)`e`Sistemas de Redes`,.
 
 ---
 
